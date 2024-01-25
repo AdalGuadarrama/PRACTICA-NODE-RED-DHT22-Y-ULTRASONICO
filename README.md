@@ -25,4 +25,30 @@ Usamos Esp32 en el ambiente de recolección de datos, en esta práctica usaremos
 ![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/u4.png)
 
 5. Abrimos nuestro programa Node-red y colocamos el bloque de mqtt in.
-6. 
+![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/s0.0.png)
+![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/s1.png)
+
+6. Configuramos el bloque con el puerto mqtt con el ip 18.193.219.109 y configuramos.
+![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/s3%20(2).png)
+
+7. Colocamos un segundo bloque con la descrioccion json y lo configuras como en la siguiente imagen.
+"[.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/s4.png)
+
+8. A continuacion insertamos dos bloques function con el siguiente codigo, uno distinto para cada function.
+![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/s5..png)
+![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/s6.png)
+![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/U5.png)
+
+9. Despues los bloques Chart y Guage a cada una de las funciones y configuramos respectivamente (TEMPERATURA, HUMEDAD, DISTANCIA).
+![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/s7.png)
+![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/s8.png)
+
+10. Finalmente la temperatura, humedad y distancia  dando doble click al sensor DHT11 Iniciar junto a nuestro sensor ultrasonico, el simulador en Node-RED dando click izquierdo en el botón Deploy y despues abrir la interfaz.
+![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/u7.png)
+![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/u8.png)
+
+### RESULTADOS 
+* Visualizamos la interfaz y podremos manilular nuestro resltulados con el programa WOKWI.
+* Podras observar los valores dentro del monitor serial y la interfaz como se muestra en las siguentes imagenes.
+#### CREDITOS
+Ing. Guadarrama Lome Adalberto 
