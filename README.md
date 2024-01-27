@@ -50,7 +50,7 @@ Usamos Esp32 en el ambiente de recolección de datos, en esta práctica usaremos
 ### RESULTADOS 
 * Visualizamos la interfaz y podremos manilular nuestro resltulados con el programa WOKWI.
 * Podras observar los valores dentro del monitor serial y la interfaz como se muestra en las siguentes imagenes.
-![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/u9.png)
+![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/u.9.png)
 
 #### CREDITOS
 Ing. Guadarrama Lome Adalberto 
