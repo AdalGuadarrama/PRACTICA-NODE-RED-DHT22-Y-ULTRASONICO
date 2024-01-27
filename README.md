@@ -16,7 +16,7 @@ Usamos Esp32 en el ambiente de recolección de datos, en esta práctica usaremos
 
 2. Abrir la terminal de programación wokwi y colocamos nuestro codigo
 ![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/u2.png)
-![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/u3.png)
+![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/u.30.png)
 
 3. Instalamos las librerias de DHT sensor library for ESPx, PubSubClient y ArduinoJson.
 ![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-DHT22-Y-ULTRASONICO/blob/main/s13.png)
